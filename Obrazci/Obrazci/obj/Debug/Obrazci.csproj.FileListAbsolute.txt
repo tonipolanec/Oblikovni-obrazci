@@ -1,0 +1,16 @@
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\bin\Debug\Obrazci.exe.config
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\bin\Debug\Obrazci.exe
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\bin\Debug\Obrazci.pdb
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.Form1.resources
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.Properties.Resources.resources
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.csproj.GenerateResource.Cache
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.exe
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.pdb
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.RacunovodstvoForm.resources
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.dodavanjeOsobaForm.resources
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.Zaposlenici.resources
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.Ucenici.resources
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.KreiranjeNovogRazreda.resources
+C:\Users\Laptop\source\repos\Obrazci\Obrazci\obj\Debug\Obrazci.Razredi.resources
